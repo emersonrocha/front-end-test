@@ -1,0 +1,11 @@
+.header_menu{
+    float: left;
+    width: 10%;
+    background: url("./../slices/mobile/menu-icon.png") no-repeat scroll 50% 0;
+}
+
+.header_logo{
+    background: url("./../slices/mobile/logo.png") no-repeat scroll 50% 0;
+    width: 89%;
+    float: left;
+}

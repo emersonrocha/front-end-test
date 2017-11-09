@@ -1,0 +1,13 @@
+.header_menu{
+    width: 15%;
+    height: 100%;
+    float: left;
+    background: url("./../slices/mobile/menu-icon.png") no-repeat scroll 50% 0;
+}
+
+.header_logo{
+    height: 100%;
+    width: 85%;
+    float: left;
+    background: url("./../slices/mobile/logo.png") no-repeat scroll 50% 0;    
+}
